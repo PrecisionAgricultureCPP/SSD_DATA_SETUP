@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Weed Detection</folder>
+	<filename>IMG_8225.JPG</filename>
+	<path>D:\Users\Colby\Desktop\Weed Detection\IMG_8225.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2203</xmin>
+			<ymin>894</ymin>
+			<xmax>3230</xmax>
+			<ymax>1944</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1583</xmin>
+			<ymin>1294</ymin>
+			<xmax>1753</xmax>
+			<ymax>1487</ymax>
+		</bndbox>
+	</object>
+</annotation>
