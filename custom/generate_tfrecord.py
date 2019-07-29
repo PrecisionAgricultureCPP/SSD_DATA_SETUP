@@ -32,7 +32,7 @@ def class_text_to_int(row_label):
     if row_label == 'Weed':
         return 1
     else:
-        0
+        return 0
 
 
 def split(df, group):
